@@ -1,4 +1,4 @@
-# 🚀 Online Exam System – Java (Spring Boot)
+#  Online Exam System – Java (Spring Boot)
 
 <p align="center">
 
